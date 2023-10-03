@@ -1,0 +1,15 @@
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gustavo.pereira13\OneDrive - SENAC-SC\Anexos\Terceiro Modulo Orientção por Objeto\Trabalho Do Ghilherme\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
